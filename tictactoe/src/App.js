@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="w-1/2 h-1/2 flex justify-center items-center align-middle">
+    <div className="bg-gradient-to-l from-[#F0F2F0] to-[#000C40] w-full h-screen flex justify-center items-center">
       <Board />
     </div>
   );
